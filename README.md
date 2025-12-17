@@ -50,5 +50,8 @@ java Main
 - Controller was tried (UI/UX)
 
 
-##GitHub Repository
+##GitHub Repository 
 https://github.com/nibrashassan/NibrasHWorldClockProject
+
+##WORLDCLOCK_CONSOLE_TEST
+https://github.com/nibrashassan/NibrasHWorldClockProject/blob/master/src/Main.java
