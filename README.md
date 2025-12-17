@@ -48,3 +48,7 @@ java Main
 
 - SceneBuilder layouting
 - Controller was tried (UI/UX)
+
+
+##GitHub Repository
+https://github.com/nibrashassan/NibrasHWorldClockProject
