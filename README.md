@@ -54,4 +54,8 @@ java Main
 https://github.com/nibrashassan/NibrasHWorldClockProject
 
 ##WORLDCLOCK_CONSOLE_TEST
+https://github.com/nibrashassan/NibrasHWorldClockProject/blob/master/RunWorldClock.bat
+
+##WORLDCLOCK CODE
 https://github.com/nibrashassan/NibrasHWorldClockProject/blob/master/src/Main.java
+
